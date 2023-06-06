@@ -1,2 +1,2 @@
 # R
-Learning R and test code
+學習資料分析以及 R
